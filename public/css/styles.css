@@ -513,7 +513,7 @@ footer p {
         margin: auto;
     }
     .header-bottom-bar li {
-        margin: 0px 10px;
+/*         margin: 0px 10px; */
         font-size: 18px;
     }
     .header-bottom-bar li a, .header-bottom-bar li p{
