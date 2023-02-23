@@ -516,8 +516,8 @@ footer p {
         margin: 0px 10px;
         font-size: 18px;
     }
-    .header-bottom-bar li a{
-        margin: 0px 5px;
+    .header-bottom-bar li a, .header-bottom-bar li p{
+/*         margin: 0px 5px; */
         font-size: inherit;
     }
     .fa-id-card,
